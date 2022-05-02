@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home">Home</string>
+    <string name="myProfile">My Profile</string>
+    <string name="favoriteRestaurant">Favorite Restaurant</string>
+    <string name="faqs">FAQs</string>
+    <string name="logout">Logout</string>
+    <string name="foodiction">Foodiction</string>
+    <string name="que1">Q. What is Foodiction?</string>
+    <string name="restaurant_name">Restaurant Name</string>
+    <string name="person_500">500/person</string>
+    <string name="no_favorites">No Favorites</string>
+</resources>

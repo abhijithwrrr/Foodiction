@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/FoodRunner/app/src/main/res/layout/activity_forgot.xml" value="0.196875" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FoodRunner/app/src/main/res/layout/activity_login.xml" value="0.196875" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FoodRunner/app/src/main/res/layout/activity_main.xml" value="0.196875" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FoodRunner/app/src/main/res/layout/activity_misc.xml" value="0.196875" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FoodRunner/app/src/main/res/layout/activity_navigation.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FoodRunner/app/src/main/res/layout/activity_register.xml" value="0.15" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FoodRunner/app/src/main/res/layout/drawer_header.xml" value="0.196875" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FoodRunner/app/src/main/res/layout/fragment_faq.xml" value="0.196875" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FoodRunner/app/src/main/res/layout/fragment_favorite_restuarant.xml" value="0.196875" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FoodRunner/app/src/main/res/layout/fragment_home.xml" value="0.12" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FoodRunner/app/src/main/res/layout/fragment_misc.xml" value="0.11730072463768115" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FoodRunner/app/src/main/res/layout/fragment_my_profile.xml" value="0.196875" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FoodRunner/app/src/main/res/layout/recycler_home_single_item.xml" value="0.196875" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FoodRunner/app/src/main/res/layout/test.xml" value="0.196875" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FoodRunner/app/src/main/res/menu/menu_drawer.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FoodRunner/app/src/main/res/menu/menu_ndrawer.xml" value="0.196875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

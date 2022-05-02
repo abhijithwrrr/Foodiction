@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Black"
+    tools:context=".activity.activity.ForgotActivity">
+
+    <ImageView
+        android:id="@+id/imgForgotPage"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:src="@drawable/foodiction"
+        android:scaleType="centerCrop" />
+
+    <TextView
+        android:id="@+id/viewForgot"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imgForgotPage"
+        android:layout_marginLeft="15sp"
+        android:layout_marginTop="20sp"
+        android:layout_marginRight="15sp"
+        android:text="@string/text"
+        android:textColor="#ffffff"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/etMobile2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/viewForgot"
+        android:layout_marginStart="20sp"
+        android:layout_marginTop="20sp"
+        android:layout_marginEnd="20sp"
+        android:layout_marginBottom="20sp"
+        android:hint="@string/mobile"
+        android:textColor="#ffffff"
+        android:inputType="phone"
+        android:maxLength="10" />
+
+    <EditText
+        android:id="@+id/etEmail2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/etMobile2"
+        android:layout_margin="20sp"
+        android:layout_marginTop="15sp"
+        android:hint="@string/email"
+        android:textColor="#ffffff" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/etEmail2"
+        android:layout_marginStart="25dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginEnd="25dp"
+        android:layout_marginBottom="25dp"
+        android:background="@color/LightSeaGreen"
+        android:hint="@string/next"
+        android:textColorHint="#ffffff"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>

@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Food Runner</string>
+    <string name="foodiyo">Foodiyo</string>
+    <string name="mobile">Mobile Number (10 digits)</string>
+    <string name="password">Password (Minimum 8 characters)</string>
+    <string name="login">LOGIN</string>
+    <string name="forgot">Forgot Password?</string>
+    <string name="register">New Here? Sign up Now!</string>
+    <string name="registerName">Name (Minimum 3 characters)</string>
+    <string name="email">E-Mail Address</string>
+    <string name="phone">Phone Number</string>
+    <string name="delivery">Delivery Address</string>
+    <string name="passwordReg">Password (Minumun 4 characters)</string>
+    <string name="passwordConfirm">Confirm your Password</string>
+    <string name="register2">REGISTER</string>
+    <string name="text">Enter your registered mobile number and email below</string>
+    <string name="next">NEXT</string>
+    <string name="start">START</string>
+    <string name="home">Home</string>
+    <string name="myProfile">My Profile</string>
+    <string name="favoriteRestaurant">Favorite Restaurant</string>
+    <string name="faqs">FAQs</string>
+    <string name="logout">Logout</string>
+    <string name="foodiction">Foodiction</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="open_drawer">Open Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="que1">Q. What is Foodiction?</string>
+    <string name="ans1">A. Foodiction is a website and app built to save you time and money when ordering food. Foodiction provide online ordering systems to restaurants and delivery services. As a portal, it allows you find nearby restaurants that are using our software, view their entire menu and select exactly what you want. Place your order and pay online or pay when you pick up. Pick up or have your food delivered from restaurants that offer delivery without waiting in lines or call waiting. You can even compare 3rd party delivery services that may be available.
+</string>
+    <string name="que2">Q. Do I need to pay extra to order using this site/app?</string>
+    <string name="ans2">A. Not as long as the restaurant you order from is not charging any convenience fees you don\'t have to pay extra.  Restaurants can choose to charge convenience. Our goal is to provide best online ordering and deliver system to restaurants and delivery services which offer the best possible experience for customers</string>
+    <string name="restaurant_name">Restaurant Name</string>
+    <string name="person_500">500/person</string>
+    <string name="no_favorites">No Favorites</string>
+
+</resources>
